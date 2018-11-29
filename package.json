@@ -1,0 +1,23 @@
+{
+  "name": "saduTW",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "saduTW": "./bin/saduTW.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thierved/saduTW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thierved/saduTW/issues"
+  },
+  "homepage": "https://github.com/thierved/saduTW#readme"
+}
